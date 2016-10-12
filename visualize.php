@@ -64,7 +64,7 @@
                   fill: #4c789a;
                 }
 
-                #quintly_title{
+                #qtitle{
                   position: absolute; 
                   top: 60px; left: 40px;
                  }
@@ -208,8 +208,8 @@ function zoom(d, i) {
 
 
 
-<div id = "quintly_title">
-      <img src="img/quintly_logo.jpg"></img><br>
+<div id = "qtitle">
+      <img src="img/fb_logo.png"></img><br>
       <h3>Facebook post Visualization</h3></br>
       <br/>
 
